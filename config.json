@@ -1,6 +1,6 @@
 {
-    "domain":"http://localhost:3000",
-    "domainVerify":"http://localhost:3001",
+    "domain":"https://funny-squirrel-bfb0ac.netlify.app",
+    "domainVerify":"https://funny-squirrel-bfb0ac.netlify.app",
     "title": "Plinko Game",
     "connectionString":"",
     "urlRPC":"https://data-seed-prebsc-1-s1.binance.org:8545/",
